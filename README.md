@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wagner!
 
-- 🔭 Hoje trabalho com RPA (Robotic Process Automation
+- 🔭 Hoje trabalho com RPA (Robotic Process Automation)
 - 🌱 Estudando Front-End  
 
 <div align="center">
