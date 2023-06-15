@@ -1,7 +1,7 @@
 ### Olá, eu sou o Wagner!
 
 - 🔭 Hoje trabalho com RPA (Robotic Process Automation)
-- 🌱 Estudando Python  
+- 🌱 Estudando Java  
 
 <div align="center">
   <a href="https://github.com/wagnernsct">
