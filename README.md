@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wagner!
 
-- 🌱 Estudando Java  
+- 🌱 Estudando Python   
 
 <div align="center">
   <a href="https://github.com/wagnernsct">
